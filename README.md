@@ -1,4 +1,9 @@
 Example README structure:
+# Project Title:
+# Project description
+# Key features/functionality
+# Instructions on how to view or use the project
+# Credits to those who contributed/resources used
 
 # Coding Club
 
@@ -19,5 +24,11 @@ The Coding Club website is a landing page for parents and children looking for a
 - The code for the social media icon animations was taken from [website name](https://username2.github.io/projectname/)
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
 
-## Footer
+# Markdown practice
+|Building      |a table         |with markdown
+|-----------   |:------------:  |:--------------
+|italic text   |bold test       |inline text
+|42            |400             |97
+
+
 
